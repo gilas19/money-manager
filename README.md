@@ -33,7 +33,7 @@ A mobile-friendly web application for managing personal finances and household e
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/money-manager.git
+   git clone https://github.com/gilas19/money-manager.git
    cd money-manager
    ```
 
